@@ -12,8 +12,8 @@ and the first j characters of Y. The edit distance between X and Y is thus D(n,m
 ![equation](https://qkdb.files.wordpress.com/2012/10/edit_distance.png)
 
 Tasks
-- [ ] Branch from master 
-- [ ] Implement class, which have two methods which are returns the distance and the alignment backtrace
+- [X] Branch from master 
+- [X] Implement class, which have two methods which are returns the distance and the alignment backtrace
 - [ ] Solve merge conflicts 
 
 The output will look-like this
