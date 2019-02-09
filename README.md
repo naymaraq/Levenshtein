@@ -22,5 +22,5 @@ The output will look-like this
 >>> from Levenshtein import LevDist
 >>> m = LevDist('Price', 'Prize')
 >>> print(m.get_distance())
->>> print(m.backtrace())
+>>> print(m.get_backtrace())
 ```
