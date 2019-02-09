@@ -19,8 +19,8 @@ Tasks
 The output will look-like this
 
 ```python
->>> from Levenshtein import LavDist
->>> m = LavDist('Price', 'Prize')
+>>> from Levenshtein import LevDist
+>>> m = LevDist('Price', 'Prize')
 >>> print(m.get_distance())
 >>> print(m.backtrace())
 ```
