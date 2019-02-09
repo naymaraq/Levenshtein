@@ -15,3 +15,12 @@ Tasks
 - [ ] Branch from master 
 - [ ] Implement class, which have two methods which are returns the distance and the alignment backtrace
 - [ ] Solve merge conflicts 
+
+The output will look-like this
+
+```python
+>>> from Levenshtein import LavDist
+>>> m = LavDist('Price', 'Prize')
+>>> print(m.get_distance())
+>>> print(m.backtrace())
+```
